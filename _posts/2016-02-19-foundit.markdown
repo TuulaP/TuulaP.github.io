@@ -1,0 +1,24 @@
+---
+title: Found it!
+layout: post
+excerpt_separator: <!--more-->
+---
+
+Installed Jekyll, but then forgot for a while to continue, so retrying again
+with increased enthusiasm. Basically there is something so appealing in being
+able to write with just plain editor - the more and more web-based blog system
+evolve the harder they make the focusing to the actual content.
+
+
+<!--more-->
+
+Even images can be niftily included: 
+![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+
+
+Font coloring
+{% highlight python %}
+
+result = urlopen(url+isbn).read()
+
+{% endhighlight %}
