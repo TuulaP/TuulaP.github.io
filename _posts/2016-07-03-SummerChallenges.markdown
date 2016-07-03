@@ -38,10 +38,16 @@ Have so far read books which cover 3, 6, 8, 9, 16, 18, 19, 21, 25, 35, 41, 48
 (at least) .
 
 It would be interesting to analyze if there are books, which cover several
-of the challenges. Definitely the Nobel winner one is something interesting,
-my long-term goal is to read something from all of the Nobel winners.
+of the challenges. Definitely the Nobel winner one is something take up on as
+my long-term goal is to read something from all of the [Nobel literary prize winners](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature#Laureates)
 Also especially those recommendations, which require that author is from
-specific continent require bit of sorting out before
+specific continent require bit of investigation.
+
+
+## Other challenges
+
+Another personal goal is to complete couple of interesting open university courses during July (as they have deadline at the end of the month).
+Those require lots of reading and writing, so maybe can get also couple book challenges done along the way. :sun_with_face:
 
 
 (P.S. Current test: http://urn.fi/URN:NBN:fi-fe2016070322185  ?)
