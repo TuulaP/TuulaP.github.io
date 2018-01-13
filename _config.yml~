@@ -9,7 +9,7 @@
 title: This too shall pass... 
 email: USER @ iki.fi
 description: > # this means to ignore newlines until "baseurl:"
-All kinds of writings, notes and hints for stuff that needs a web location.
+   All kinds of writings, notes and hints for stuff that needs a web location.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb

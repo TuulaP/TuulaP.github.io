@@ -27,3 +27,5 @@ Aspell also have new dictionaries: [ftp://ftp.gnu.org/gnu/aspell/dict/0index.htm
 
 ![Settings demo]({{site.url}}/imgs/newdic.png "new user dictionaries")
 
+This might require restart, but I believe otherwise spelling check should now be on when doing texts in IntellijIdea.
+

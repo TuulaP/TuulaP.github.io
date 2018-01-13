@@ -15,5 +15,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 github_username:  tuulap
 
+
+plugins:
+ - jekyll-sitemap
+
+
 # Build settings
 markdown: kramdown
